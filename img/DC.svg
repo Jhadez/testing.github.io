@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261" height="261" viewBox="0 0 261 261">
+  <g id="Group_282" data-name="Group 282" transform="translate(-1095 -692)">
+    <rect id="Rectangle_242" data-name="Rectangle 242" width="261" height="261" transform="translate(1095 692)" fill="#010205"/>
+    <g id="Group_170" data-name="Group 170" transform="translate(1176.159 734.496)">
+      <path id="Path_151" data-name="Path 151" d="M92.1,33.9,61.5,3.312A3.977,3.977,0,0,0,58.444,2h-43.7A8.741,8.741,0,0,0,6,10.742V115.629a8.741,8.741,0,0,0,8.741,8.741H84.665a8.741,8.741,0,0,0,8.741-8.741V36.964A3.977,3.977,0,0,0,92.1,33.9ZM58.444,12.49,82.917,36.964H58.444ZM84.665,115.629H14.741V10.742H49.7V36.964A8.741,8.741,0,0,0,58.444,45.7H84.665Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_152" data-name="Path 152" d="M11,42.222H54.7v8.741H11ZM11,16H54.7v8.741H11Z" transform="translate(16.852 47.185)" fill="#fff"/>
+    </g>
+    <text id="Documentation" transform="translate(1226 911)" fill="#fff" font-size="22" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="-75.966" y="0">Documentation</tspan></text>
+  </g>
+</svg>

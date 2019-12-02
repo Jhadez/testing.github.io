@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261" height="261" viewBox="0 0 261 261">
+  <g id="Group_283" data-name="Group 283" transform="translate(-1426 -692)">
+    <rect id="Rectangle_243" data-name="Rectangle 243" width="261" height="261" transform="translate(1426 692)" fill="#010205"/>
+    <g id="Group_171" data-name="Group 171" transform="translate(1493.134 734)">
+      <path id="Path_153" data-name="Path 153" d="M63.433,10.776A52.657,52.657,0,1,1,10.776,63.433,52.657,52.657,0,0,1,63.433,10.776m0-8.776a61.433,61.433,0,1,0,61.433,61.433A61.433,61.433,0,0,0,63.433,2Z" transform="translate(0)" fill="#fff"/>
+      <path id="Path_154" data-name="Path 154" d="M70.132,15.157,63.976,9,45.2,27.776A13.1,13.1,0,0,0,27.733,45.243L9,63.976l6.157,6.157L33.933,51.356A13.1,13.1,0,0,0,51.4,33.89Zm-26.2,24.409A4.367,4.367,0,1,1,39.566,35.2,4.367,4.367,0,0,1,43.933,39.566Z" transform="translate(23.867 23.867)" fill="#fff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="6.564" cy="6.564" r="6.564" transform="translate(56.869 19.505)" fill="#fff"/>
+    </g>
+    <text id="Navigation_Tips" data-name="Navigation Tips" transform="translate(1557 911)" fill="#fff" font-size="22" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="-75.768" y="0">Navigation Tips</tspan></text>
+  </g>
+</svg>

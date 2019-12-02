@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.085" height="28.409" viewBox="0 0 69.085 28.409">
+  <g id="Group_138" data-name="Group 138" transform="translate(-188.486 -4.17)">
+    <g id="Group_135" data-name="Group 135">
+      <path id="Path_117" data-name="Path 117" d="M211.211,24.724l-3.259,6.837-10.488-.044Z" fill="#aeb8b8"/>
+      <path id="Path_118" data-name="Path 118" d="M206.748,12.269l3.209,11.583-12.492,7.359Z" fill="#aeb8b8"/>
+      <path id="Path_119" data-name="Path 119" d="M188.486,4.17l14.378,10.06-5.712,16.982Z" fill="#aeb8b8"/>
+    </g>
+    <g id="Group_136" data-name="Group 136">
+      <text id="CISQ" transform="translate(212.037 28.588)" fill="#aeb8b8" font-size="10.518" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">CISQ</tspan></text>
+      <text id="U" transform="translate(236.334 28.588)" fill="#aeb8b8" font-size="10.518" font-family="IBMPlexSans, IBM Plex Sans" letter-spacing="-0.01em"><tspan x="0" y="0">U</tspan></text>
+      <text id="AD" transform="translate(243.33 28.588)" fill="#aeb8b8" font-size="10.518" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">AD</tspan></text>
+    </g>
+    <line id="Line_49" data-name="Line 49" x2="35.765" transform="translate(213.772 30.901)" fill="#aeb8b8" stroke="#aeb8b8" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_137" data-name="Group 137">
+      <text id="b" transform="translate(250.25 31.579)" fill="#aeb8b8" font-size="2.356" font-family="IBMPlexSans-ExtraLight, IBM Plex Sans" font-weight="200"><tspan x="0" y="0">b</tspan></text>
+      <text id="y_IBM" data-name="y IBM" transform="translate(251.57 31.579)" fill="#aeb8b8" font-size="2.356" font-family="IBMPlexSans-ExtraLight, IBM Plex Sans" font-weight="200"><tspan x="0" y="0">y IBM</tspan></text>
+    </g>
+  </g>
+</svg>

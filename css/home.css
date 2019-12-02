@@ -1,0 +1,120 @@
+        body {
+            font-family: 'IBM Plex Sans', sans-serif;
+            background-color: #F3F3F3;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #btnNav {
+            font-size: 30px;
+            cursor: pointer;
+            color: white;
+        }
+        
+        #topSheet {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 15px;
+            font: #000000;
+            font-weight: 200;
+        }
+        
+        #title1 {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 25px;
+            font: #000000;
+            font-weight: 400;
+            padding-top: 5%;
+            padding-bottom: 0;
+        }
+        
+        img {
+            width: 30%;
+        }
+        
+        #quickMenu {
+            padding-left: 10%;
+            align-self: center;
+            top: 5%;
+        }
+        
+        .separationLine {
+            width: 30%;
+            border-radius: 50px;
+            border: 1px solid #707070;
+        }
+        
+        .vl {
+            border-left: 2px solid #707070;
+            height: 85%;
+            border-radius: 50px;
+            position: absolute;
+            margin-left: -3px;
+            left: 80%;
+        }
+        
+        nav ul li a {
+            position: relative;
+            text-decoration: none;
+            color: #999999;
+        }
+        
+        nav ul li a:after {
+            content: "";
+            display: inline-block;
+            position: absolute;
+            left: 10%;
+            bottom: -10px;
+            background-color: #408BFC;
+            width: 0;
+            height: 4px;
+            border-radius: 50px;
+            transition: all 0.4s;
+        }
+        
+        nav ul li a:hover {
+            color: #408BFC;
+        }
+        
+        nav ul li a:hover:after {
+            width: 75%;
+        }
+        
+        .sidenav {
+            height: 15%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 8%;
+            right: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 2%;
+        }
+        
+        .sidenav a {
+            padding: 0px 8px 0px 28px;
+            text-decoration: none;
+            font-size: 15px;
+            color: #ffffff;
+            display: block;
+            transition: 0.3s;
+        }
+        
+        .sidenav a:hover {
+            color: #f1f1f1;
+        }
+        
+        .rounded-circle {
+            width: 2.5%;
+            margin-right: 2%;
+        }
+        
+        @media screen and (max-height: 450px) {
+            .sidenav {
+                padding-top: 0px;
+            }
+            .sidenav a {
+                font-size: 18px;
+            }
+        }

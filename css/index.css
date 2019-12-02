@@ -1,0 +1,53 @@
+body{
+	font-family: 'IBM Plex Sans', sans-serif;
+	background-image: url("/public/img/login.jpg");
+	background-repeat: no-repeat, repeat;
+	background-size: cover; 
+}
+
+
+div{
+	/* border: 1px solid; */
+	/*border-color: #ffffff;*/
+	color: #ffffff;
+}
+
+#loginBox{
+	background-color: #0000007a;
+
+}
+
+#pad{
+	padding-top: 5%;
+}
+
+#logoBox{
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 4%;
+}
+
+#btn{
+	padding-right: 15%;
+}
+
+.form-check-label{
+	padding-right: 17%;
+	font-size: 13px;
+}
+
+#yellow{
+	position: absolute;
+	width: 13%;
+	padding-top: 5%;
+	left: 10%;
+	
+}
+
+.text2{
+	padding-top: 5%;
+	font-size: 13px;
+	padding-left: 10%;
+	text-align: center;
+}
